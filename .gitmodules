@@ -1,3 +1,6 @@
 [submodule "jrobin15283.github.io"]
 	path = jrobin15283.github.io
 	url = https://github.com/jrobin15283/jrobin15283.github.io
+[submodule "Summer-Collaboration"]
+	path = Summer-Collaboration
+	url = https://github.com/jrobin15283/Summer-Collaboration
